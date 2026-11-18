@@ -1,38 +1,87 @@
+<!-- Profile artwork is generated from design/generate_profile.py. No external image services. -->
+
+<p>
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg">
-  <img src="./assets/hero.svg" width="100%" alt="Ariel Morillo. Software Developer, focused on backend.">
+  <source media="(max-width: 1100px)" srcset="./assets/profile/hero-mobile.svg">
+  <img src="./assets/profile/hero.svg" width="100%" alt="Ariel Morillo. Backend developer and Software Engineering student. Building APIs and data-driven applications with Node.js and TypeScript.">
 </picture>
+</p>
+<a id="stack"></a>
+<p>
+<picture>
+  <source media="(max-width: 1100px)" srcset="./assets/profile/stack-mobile.svg">
+  <img src="./assets/profile/stack.svg" width="100%" alt="Backend stack: Node.js, TypeScript, Express, Prisma, Docker, Vitest and CI/CD. Databases: PostgreSQL and SQLite.">
+</picture>
+</p>
+<a id="selected-work"></a>
+<p>
+<picture>
+  <source media="(max-width: 1100px)" srcset="./assets/profile/work-mobile.svg">
+  <img src="./assets/profile/work.svg" width="100%" alt="Selected work: backend projects.">
+</picture>
+</p>
+<p>
+<a href="https://github.com/arieleMM-dev/inventario-pos-multisucursal">
+<picture>
+  <source media="(max-width: 1100px)" srcset="./assets/profile/inventory-mobile.svg">
+  <img src="./assets/profile/inventory.svg" width="100%" alt="Inventory and POS. Multi-branch inventory and sales, PostgreSQL persistence and concurrent sales integration tests. Explore repository.">
+</picture>
+</a>
+</p>
+<p>
+<a href="https://github.com/arieleMM-dev/inventario-pos-multisucursal/blob/main/backend/src/__tests__/sale.concurrency.test.ts">
+<picture>
+  <source media="(max-width: 1100px)" srcset="./assets/profile/test-mobile.svg">
+  <img src="./assets/profile/test.svg" width="100%" alt="Read the Vitest integration test for concurrent sales.">
+</picture>
+</a>
+</p>
+<p>
+<a href="https://github.com/arieleMM-dev/sistema-jirah">
+<picture>
+  <source media="(max-width: 1100px)" srcset="./assets/profile/jirah-mobile.svg">
+  <img src="./assets/profile/jirah.svg" width="100%" alt="Finca Jirah. Agricultural traceability with offline field capture. TypeScript, Next.js, Prisma and SQLite/libSQL. Explore repository.">
+</picture>
+</a>
+</p>
+<a id="contact"></a>
+<p>
+<a href="https://www.linkedin.com/in/ariel-morillo-dev">
+<picture>
+  <source media="(max-width: 1100px)" srcset="./assets/profile/contact-linkedin-mobile.svg">
+  <img src="./assets/profile/contact-linkedin.svg" width="100%" alt="LinkedIn. Connect with Ariel Morillo.">
+</picture>
+</a>
+</p>
+<p>
+<a href="https://arielmorillo-dev.vercel.app/">
+<picture>
+  <source media="(max-width: 1100px)" srcset="./assets/profile/contact-world-mobile.svg">
+  <img src="./assets/profile/contact-world.svg" width="100%" alt="Portfolio. Explore my work.">
+</picture>
+</a>
+</p>
+<details>
+<summary>Text version</summary>
 
-Software Engineering student in Ecuador. I build **APIs and data-driven applications** with Node.js and TypeScript, with a focus on backend architecture, data integrity and testing.
+## About
 
-[Selected work](#selected-work) · [Stack](#stack) · [Contact](#contact)
+I'm Ariel Morillo, a Software Engineering student in Ecuador focused on backend development. I build APIs and data-driven applications with Node.js and TypeScript.
 
-## Selected work
+## Technologies
 
-### [Inventory & POS](https://github.com/arieleMM-dev/inventario-pos-multisucursal)
+Node.js, TypeScript, Express, Prisma, Docker, Vitest and CI/CD. I also work with PostgreSQL and SQLite/libSQL.
 
-A multi-branch inventory and sales system. The backend brings together role-based access, PostgreSQL persistence and integration tests for concurrent sales.
+## Projects
 
-**Node.js · TypeScript · Express · Prisma · PostgreSQL · Vitest**
+**[Inventory & POS](https://github.com/arieleMM-dev/inventario-pos-multisucursal)** is a multi-branch inventory and sales system with PostgreSQL persistence and integration tests for concurrent sales. Its backend uses Node.js, TypeScript, Express and Prisma.
 
-[Explore the backend](https://github.com/arieleMM-dev/inventario-pos-multisucursal/tree/main/backend) · [Read the concurrency test](https://github.com/arieleMM-dev/inventario-pos-multisucursal/blob/main/backend/src/__tests__/sale.concurrency.test.ts)
+[Read the Vitest concurrency test](https://github.com/arieleMM-dev/inventario-pos-multisucursal/blob/main/backend/src/__tests__/sale.concurrency.test.ts).
 
-### [Finca Jirah](https://github.com/arieleMM-dev/sistema-jirah)
+**[Finca Jirah](https://github.com/arieleMM-dev/sistema-jirah)** is an agricultural traceability application with offline field capture, built with TypeScript, Next.js and Prisma on SQLite/libSQL.
 
-Agricultural traceability with offline field capture, built with Next.js and Prisma on SQLite/libSQL.
+## Contact links
 
-**TypeScript · Next.js · Prisma · SQLite/libSQL**
+[LinkedIn](https://www.linkedin.com/in/ariel-morillo-dev) | [Portfolio](https://arielmorillo-dev.vercel.app/)
 
-## Stack
-
-**Backend** &nbsp; Node.js · TypeScript · Express<br>
-**Data** &nbsp; Prisma · PostgreSQL · SQLite<br>
-**Quality & delivery** &nbsp; Vitest · Docker · CI/CD
-
-## Engineering interests
-
-API design, transactional consistency, automated testing and software architecture. Currently deepening my understanding of distributed systems and delivery pipelines.
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/ariel-morillo-dev) · [Portfolio](https://arielmorillo-dev.vercel.app/) · [GitHub repositories](https://github.com/arieleMM-dev?tab=repositories)
+</details>
