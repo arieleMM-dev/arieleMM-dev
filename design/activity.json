@@ -1,12 +1,12 @@
 {
   "username": "arieleMM-dev",
-  "updated_on": "2026-11-17",
+  "updated_on": "2026-11-18",
   "period_start": "2025-11-18",
   "period_end": "2026-11-18",
   "calendar_timezone": "UTC",
-  "public_repositories": 15,
-  "contributions": 156,
-  "active_days": 56,
+  "public_repositories": 16,
+  "contributions": 159,
+  "active_days": 57,
   "languages": {
     "TypeScript": 1872546,
     "JavaScript": 418621,
@@ -19,6 +19,7 @@
     "TeX": 44856,
     "Dart": 20737,
     "Dockerfile": 2146,
+    "GDScript": 2030,
     "Kotlin": 253
   },
   "language_scope": "Bytes in owned public non-fork repositories, excluding this profile repository.",
@@ -1850,8 +1851,8 @@
     },
     {
       "date": "2026-11-18",
-      "level": 0,
-      "count": 0
+      "level": 2,
+      "count": 3
     }
   ],
   "projects": [
