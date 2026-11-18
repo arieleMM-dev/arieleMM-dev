@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="205" viewBox="0 0 1200 205" role="img" aria-label="Finca JIRAH: Agricultural traceability &amp; offline field capture">
+<title>Finca JIRAH: Agricultural traceability &amp; offline field capture</title>
+<rect x="0" y="0" width="1200" height="205" rx="19" fill="#171717"/>
+<rect x="1" y="1" width="1198" height="203" rx="19" fill="none" stroke="#343434" stroke-width="1.5"/>
+<text x="52" y="48" font-size="14" font-weight="500" fill="#999995" letter-spacing="2" font-family="Arial, Helvetica, sans-serif">02</text>
+<text x="1145" y="48" font-size="12" font-weight="500" fill="#999995" letter-spacing="2" text-anchor="end" font-family="Arial, Helvetica, sans-serif">ENGINEERING PROJECT</text>
+<line x1="52" y1="67" x2="1148" y2="67" stroke="#343434" stroke-width="1" opacity="1"/>
+<text x="52" y="121" font-size="44" font-weight="500" fill="#F4F3F1" letter-spacing="-1.2" font-family="Arial, Helvetica, sans-serif">Finca JIRAH</text>
+<text x="53" y="151" font-size="19" font-weight="400" fill="#CACAC6" font-family="Arial, Helvetica, sans-serif">Agricultural traceability &amp; offline field capture</text>
+<text x="53" y="183" font-size="12" font-weight="500" fill="#999995" letter-spacing="1.9" font-family="Arial, Helvetica, sans-serif">TYPESCRIPT   /   NEXT.JS   /   PRISMA</text>
+<circle cx="1090" cy="123" r="29" fill="#202020" stroke="#535353" stroke-width="1"/>
+<g fill="none" stroke="#F4F3F1" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M1081 132 L1100 113 M1087 113 H1100 V126"/></g>
+</svg>

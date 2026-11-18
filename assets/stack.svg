@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-label="Core technologies: TypeScript, Node.js, PostgreSQL, Docker. Also Express, Prisma, Git and Linux.">
+<title>Core technologies: TypeScript, Node.js, PostgreSQL, Docker. Also Express, Prisma, Git and Linux.</title>
+<rect x="0" y="0" width="1200" height="350" rx="24" fill="#171717"/>
+<text x="58" y="60" font-size="17" font-weight="600" fill="#F4F3F1" letter-spacing="2.3" font-family="Arial, Helvetica, sans-serif">02  /  CORE STACK</text>
+<text x="1140" y="60" font-size="14" font-weight="400" fill="#999995" letter-spacing="2.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif">FOCUSED, NOT EVERYTHING</text>
+<line x1="58" y1="80" x2="1142" y2="80" stroke="#4A4A4A" stroke-width="1" opacity="1"/>
+<rect x="56" y="107" width="265" height="190" rx="14" fill="#202020" stroke="#343434"/>
+<text x="77" y="140" font-size="13" font-weight="500" fill="#999995" letter-spacing="1.5" font-family="Arial, Helvetica, sans-serif">01</text>
+<g fill="none" stroke="#E4E4DF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M90 173 l-13 11 13 11 M125 173 l13 11 -13 11 M117 168 l-17 33"/></g>
+<text x="77" y="259" font-size="28" font-weight="500" fill="#F4F3F1" letter-spacing="-0.6" font-family="Arial, Helvetica, sans-serif">TypeScript</text>
+<text x="78" y="281" font-size="11" font-weight="500" fill="#999995" letter-spacing="2.2" font-family="Arial, Helvetica, sans-serif">LANGUAGE</text>
+<rect x="339" y="107" width="265" height="190" rx="14" fill="#202020" stroke="#343434"/>
+<text x="360" y="140" font-size="13" font-weight="500" fill="#999995" letter-spacing="1.5" font-family="Arial, Helvetica, sans-serif">02</text>
+<path d="M387 159 l27 14 v30 l-27 14 -27 -14 v-30 z" fill="none" stroke="#E4E4DF" stroke-width="2.7"/>
+<circle cx="387" cy="188" r="5" fill="#E4E4DF"/>
+<text x="360" y="259" font-size="28" font-weight="500" fill="#F4F3F1" letter-spacing="-0.6" font-family="Arial, Helvetica, sans-serif">Node.js</text>
+<text x="361" y="281" font-size="11" font-weight="500" fill="#999995" letter-spacing="2.2" font-family="Arial, Helvetica, sans-serif">RUNTIME</text>
+<rect x="622" y="107" width="265" height="190" rx="14" fill="#202020" stroke="#343434"/>
+<text x="643" y="140" font-size="13" font-weight="500" fill="#999995" letter-spacing="1.5" font-family="Arial, Helvetica, sans-serif">03</text>
+<g fill="none" stroke="#E4E4DF" stroke-width="2.7"><ellipse cx="671" cy="172" rx="27" ry="10"/><path d="M644 172 v33 c0 13 54 13 54 0 v-33 M644 188 c0 13 54 13 54 0"/></g>
+<text x="643" y="259" font-size="28" font-weight="500" fill="#F4F3F1" letter-spacing="-0.6" font-family="Arial, Helvetica, sans-serif">PostgreSQL</text>
+<text x="644" y="281" font-size="11" font-weight="500" fill="#999995" letter-spacing="2.2" font-family="Arial, Helvetica, sans-serif">DATABASE</text>
+<rect x="905" y="107" width="265" height="190" rx="14" fill="#202020" stroke="#343434"/>
+<text x="926" y="140" font-size="13" font-weight="500" fill="#999995" letter-spacing="1.5" font-family="Arial, Helvetica, sans-serif">04</text>
+<g stroke="#E4E4DF" stroke-width="2" fill="none"><rect x="923" y="167" width="20" height="18" rx="2"/><rect x="947" y="167" width="20" height="18" rx="2"/><rect x="971" y="167" width="20" height="18" rx="2"/><path d="M932 191 h67 c-6 20-20 26-40 26-18 0-30-9-34-26"/></g>
+<text x="926" y="259" font-size="28" font-weight="500" fill="#F4F3F1" letter-spacing="-0.6" font-family="Arial, Helvetica, sans-serif">Docker</text>
+<text x="927" y="281" font-size="11" font-weight="500" fill="#999995" letter-spacing="2.2" font-family="Arial, Helvetica, sans-serif">CONTAINERS</text>
+<text x="58" y="330" font-size="13" font-weight="400" fill="#999995" letter-spacing="1.7" font-family="Arial, Helvetica, sans-serif">ALSO USING  /  EXPRESS   ·   PRISMA   ·   GIT   ·   LINUX</text>
+</svg>
