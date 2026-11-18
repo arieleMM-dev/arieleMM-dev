@@ -152,7 +152,7 @@
     "size": 32
   },
   {
-    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, Docker, Vitest and CI/CD. Data: PostgreSQL and SQLite.",
+    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, PostgreSQL, Docker, Vitest and CI/CD.",
     "text": "Backend stack",
     "x": 56,
     "end": 347.0,
@@ -160,7 +160,7 @@
     "size": 42
   },
   {
-    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, Docker, Vitest and CI/CD. Data: PostgreSQL and SQLite.",
+    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, PostgreSQL, Docker, Vitest and CI/CD.",
     "text": "Node.js",
     "x": 124.5,
     "end": 227.5,
@@ -168,7 +168,7 @@
     "size": 29
   },
   {
-    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, Docker, Vitest and CI/CD. Data: PostgreSQL and SQLite.",
+    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, PostgreSQL, Docker, Vitest and CI/CD.",
     "text": "TypeScript",
     "x": 383.3,
     "end": 532.7,
@@ -176,7 +176,7 @@
     "size": 29
   },
   {
-    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, Docker, Vitest and CI/CD. Data: PostgreSQL and SQLite.",
+    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, PostgreSQL, Docker, Vitest and CI/CD.",
     "text": "Express",
     "x": 685.8,
     "end": 794.2,
@@ -184,7 +184,7 @@
     "size": 29
   },
   {
-    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, Docker, Vitest and CI/CD. Data: PostgreSQL and SQLite.",
+    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, PostgreSQL, Docker, Vitest and CI/CD.",
     "text": "Prisma",
     "x": 975.7,
     "end": 1068.3,
@@ -192,39 +192,39 @@
     "size": 29
   },
   {
-    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, Docker, Vitest and CI/CD. Data: PostgreSQL and SQLite.",
+    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, PostgreSQL, Docker, Vitest and CI/CD.",
+    "text": "PostgreSQL",
+    "x": 94.8,
+    "end": 257.2,
+    "y": 360,
+    "size": 29
+  },
+  {
+    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, PostgreSQL, Docker, Vitest and CI/CD.",
     "text": "Docker",
-    "x": 221.9,
-    "end": 318.1,
+    "x": 409.9,
+    "end": 506.1,
     "y": 360,
     "size": 29
   },
   {
-    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, Docker, Vitest and CI/CD. Data: PostgreSQL and SQLite.",
+    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, PostgreSQL, Docker, Vitest and CI/CD.",
     "text": "Vitest",
-    "x": 559.3,
-    "end": 640.7,
+    "x": 699.3,
+    "end": 780.7,
     "y": 360,
     "size": 29
   },
   {
-    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, Docker, Vitest and CI/CD. Data: PostgreSQL and SQLite.",
+    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, PostgreSQL, Docker, Vitest and CI/CD.",
     "text": "CI/CD",
-    "x": 889.7,
-    "end": 970.3,
+    "x": 981.7,
+    "end": 1062.3,
     "y": 360,
     "size": 29
   },
   {
-    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, Docker, Vitest and CI/CD. Data: PostgreSQL and SQLite.",
-    "text": "PostgreSQL / SQLite",
-    "x": 938.0,
-    "end": 1144.0,
-    "y": 400,
-    "size": 22
-  },
-  {
-    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, Docker, Vitest and CI/CD. Data: PostgreSQL and SQLite.",
+    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, PostgreSQL, Docker, Vitest and CI/CD.",
     "text": "Backend stack",
     "x": 36,
     "end": 292.3,
@@ -232,7 +232,7 @@
     "size": 37
   },
   {
-    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, Docker, Vitest and CI/CD. Data: PostgreSQL and SQLite.",
+    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, PostgreSQL, Docker, Vitest and CI/CD.",
     "text": "Node.js",
     "x": 93.2,
     "end": 206.8,
@@ -240,7 +240,7 @@
     "size": 32
   },
   {
-    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, Docker, Vitest and CI/CD. Data: PostgreSQL and SQLite.",
+    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, PostgreSQL, Docker, Vitest and CI/CD.",
     "text": "TypeScript",
     "x": 387.5,
     "end": 552.5,
@@ -248,7 +248,7 @@
     "size": 32
   },
   {
-    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, Docker, Vitest and CI/CD. Data: PostgreSQL and SQLite.",
+    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, PostgreSQL, Docker, Vitest and CI/CD.",
     "text": "Express",
     "x": 90.2,
     "end": 209.8,
@@ -256,7 +256,7 @@
     "size": 32
   },
   {
-    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, Docker, Vitest and CI/CD. Data: PostgreSQL and SQLite.",
+    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, PostgreSQL, Docker, Vitest and CI/CD.",
     "text": "Prisma",
     "x": 418.9,
     "end": 521.1,
@@ -264,39 +264,39 @@
     "size": 32
   },
   {
-    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, Docker, Vitest and CI/CD. Data: PostgreSQL and SQLite.",
+    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, PostgreSQL, Docker, Vitest and CI/CD.",
+    "text": "PostgreSQL",
+    "x": 60.4,
+    "end": 239.6,
+    "y": 572,
+    "size": 32
+  },
+  {
+    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, PostgreSQL, Docker, Vitest and CI/CD.",
     "text": "Docker",
-    "x": 96.9,
-    "end": 203.1,
+    "x": 416.9,
+    "end": 523.1,
     "y": 572,
     "size": 32
   },
   {
-    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, Docker, Vitest and CI/CD. Data: PostgreSQL and SQLite.",
+    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, PostgreSQL, Docker, Vitest and CI/CD.",
     "text": "Vitest",
-    "x": 425.1,
-    "end": 514.9,
-    "y": 572,
+    "x": 105.1,
+    "end": 194.9,
+    "y": 737,
     "size": 32
   },
   {
-    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, Docker, Vitest and CI/CD. Data: PostgreSQL and SQLite.",
+    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, PostgreSQL, Docker, Vitest and CI/CD.",
     "text": "CI/CD",
-    "x": 115,
-    "end": 203.9,
-    "y": 710,
+    "x": 425.5,
+    "end": 514.5,
+    "y": 737,
     "size": 32
   },
   {
-    "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, Docker, Vitest and CI/CD. Data: PostgreSQL and SQLite.",
-    "text": "PostgreSQL / SQLite",
-    "x": 304.3,
-    "end": 604.0,
-    "y": 710,
-    "size": 32
-  },
-  {
-    "asset": "Inventory and POS. Multi-branch inventory, PostgreSQL persistence, and concurrent sales integration tests. Node.js, TypeScript, Express and Prisma. Explore repository.",
+    "asset": "Inventory and POS. Multi-branch inventory and sales, with Node.js APIs backed by PostgreSQL. Explore repository.",
     "text": "Inventory & POS",
     "x": 56,
     "end": 431.8,
@@ -304,7 +304,7 @@
     "size": 49
   },
   {
-    "asset": "Inventory and POS. Multi-branch inventory, PostgreSQL persistence, and concurrent sales integration tests. Node.js, TypeScript, Express and Prisma. Explore repository.",
+    "asset": "Inventory and POS. Multi-branch inventory and sales, with Node.js APIs backed by PostgreSQL. Explore repository.",
     "text": "Multi-branch inventory and sales.",
     "x": 56,
     "end": 486.8,
@@ -312,23 +312,15 @@
     "size": 28
   },
   {
-    "asset": "Inventory and POS. Multi-branch inventory, PostgreSQL persistence, and concurrent sales integration tests. Node.js, TypeScript, Express and Prisma. Explore repository.",
-    "text": "PostgreSQL persistence and integration",
+    "asset": "Inventory and POS. Multi-branch inventory and sales, with Node.js APIs backed by PostgreSQL. Explore repository.",
+    "text": "Node.js APIs backed by PostgreSQL.",
     "x": 56,
-    "end": 574.8,
+    "end": 518.9,
     "y": 199,
     "size": 28
   },
   {
-    "asset": "Inventory and POS. Multi-branch inventory, PostgreSQL persistence, and concurrent sales integration tests. Node.js, TypeScript, Express and Prisma. Explore repository.",
-    "text": "tests for concurrent sales.",
-    "x": 56,
-    "end": 397.8,
-    "y": 241,
-    "size": 28
-  },
-  {
-    "asset": "Inventory and POS. Multi-branch inventory, PostgreSQL persistence, and concurrent sales integration tests. Node.js, TypeScript, Express and Prisma. Explore repository.",
+    "asset": "Inventory and POS. Multi-branch inventory and sales, with Node.js APIs backed by PostgreSQL. Explore repository.",
     "text": "Node.js / TypeScript / Express",
     "x": 56,
     "end": 407.1,
@@ -336,7 +328,7 @@
     "size": 25
   },
   {
-    "asset": "Inventory and POS. Multi-branch inventory, PostgreSQL persistence, and concurrent sales integration tests. Node.js, TypeScript, Express and Prisma. Explore repository.",
+    "asset": "Inventory and POS. Multi-branch inventory and sales, with Node.js APIs backed by PostgreSQL. Explore repository.",
     "text": "Prisma / PostgreSQL / Vitest",
     "x": 56,
     "end": 386.3,
@@ -344,7 +336,7 @@
     "size": 25
   },
   {
-    "asset": "Inventory and POS. Multi-branch inventory, PostgreSQL persistence, and concurrent sales integration tests. Node.js, TypeScript, Express and Prisma. Explore repository.",
+    "asset": "Inventory and POS. Multi-branch inventory and sales, with Node.js APIs backed by PostgreSQL. Explore repository.",
     "text": "Explore repository",
     "x": 56,
     "end": 292.5,
@@ -352,7 +344,7 @@
     "size": 27
   },
   {
-    "asset": "Inventory and POS. Multi-branch inventory, PostgreSQL persistence, and concurrent sales integration tests. Node.js, TypeScript, Express and Prisma. Explore repository.",
+    "asset": "Inventory and POS. Multi-branch inventory and sales, with Node.js APIs backed by PostgreSQL. Explore repository.",
     "text": "Branches",
     "x": 903.4,
     "end": 1014.6,
@@ -360,7 +352,7 @@
     "size": 25
   },
   {
-    "asset": "Inventory and POS. Multi-branch inventory, PostgreSQL persistence, and concurrent sales integration tests. Node.js, TypeScript, Express and Prisma. Explore repository.",
+    "asset": "Inventory and POS. Multi-branch inventory and sales, with Node.js APIs backed by PostgreSQL. Explore repository.",
     "text": "Sales API",
     "x": 905.6,
     "end": 1012.4,
@@ -368,7 +360,7 @@
     "size": 25
   },
   {
-    "asset": "Inventory and POS. Multi-branch inventory, PostgreSQL persistence, and concurrent sales integration tests. Node.js, TypeScript, Express and Prisma. Explore repository.",
+    "asset": "Inventory and POS. Multi-branch inventory and sales, with Node.js APIs backed by PostgreSQL. Explore repository.",
     "text": "Inventory & POS",
     "x": 36,
     "end": 342.8,
@@ -376,7 +368,7 @@
     "size": 40
   },
   {
-    "asset": "Inventory and POS. Multi-branch inventory, PostgreSQL persistence, and concurrent sales integration tests. Node.js, TypeScript, Express and Prisma. Explore repository.",
+    "asset": "Inventory and POS. Multi-branch inventory and sales, with Node.js APIs backed by PostgreSQL. Explore repository.",
     "text": "Multi-branch inventory and sales.",
     "x": 36,
     "end": 528.3,
@@ -384,23 +376,23 @@
     "size": 32
   },
   {
-    "asset": "Inventory and POS. Multi-branch inventory, PostgreSQL persistence, and concurrent sales integration tests. Node.js, TypeScript, Express and Prisma. Explore repository.",
-    "text": "PostgreSQL persistence and",
+    "asset": "Inventory and POS. Multi-branch inventory and sales, with Node.js APIs backed by PostgreSQL. Explore repository.",
+    "text": "Node.js APIs backed by",
     "x": 36,
-    "end": 458.0,
+    "end": 374.3,
     "y": 189,
     "size": 32
   },
   {
-    "asset": "Inventory and POS. Multi-branch inventory, PostgreSQL persistence, and concurrent sales integration tests. Node.js, TypeScript, Express and Prisma. Explore repository.",
-    "text": "integration tests for concurrent sales.",
+    "asset": "Inventory and POS. Multi-branch inventory and sales, with Node.js APIs backed by PostgreSQL. Explore repository.",
+    "text": "PostgreSQL.",
     "x": 36,
-    "end": 597.5,
+    "end": 220.4,
     "y": 229,
     "size": 32
   },
   {
-    "asset": "Inventory and POS. Multi-branch inventory, PostgreSQL persistence, and concurrent sales integration tests. Node.js, TypeScript, Express and Prisma. Explore repository.",
+    "asset": "Inventory and POS. Multi-branch inventory and sales, with Node.js APIs backed by PostgreSQL. Explore repository.",
     "text": "Node.js / TypeScript / Express",
     "x": 36,
     "end": 485.4,
@@ -408,7 +400,7 @@
     "size": 32
   },
   {
-    "asset": "Inventory and POS. Multi-branch inventory, PostgreSQL persistence, and concurrent sales integration tests. Node.js, TypeScript, Express and Prisma. Explore repository.",
+    "asset": "Inventory and POS. Multi-branch inventory and sales, with Node.js APIs backed by PostgreSQL. Explore repository.",
     "text": "Prisma / PostgreSQL / Vitest",
     "x": 36,
     "end": 458.8,
@@ -416,7 +408,7 @@
     "size": 32
   },
   {
-    "asset": "Inventory and POS. Multi-branch inventory, PostgreSQL persistence, and concurrent sales integration tests. Node.js, TypeScript, Express and Prisma. Explore repository.",
+    "asset": "Inventory and POS. Multi-branch inventory and sales, with Node.js APIs backed by PostgreSQL. Explore repository.",
     "text": "Branches",
     "x": 54.9,
     "end": 197.1,
@@ -424,7 +416,7 @@
     "size": 32
   },
   {
-    "asset": "Inventory and POS. Multi-branch inventory, PostgreSQL persistence, and concurrent sales integration tests. Node.js, TypeScript, Express and Prisma. Explore repository.",
+    "asset": "Inventory and POS. Multi-branch inventory and sales, with Node.js APIs backed by PostgreSQL. Explore repository.",
     "text": "Sales API",
     "x": 294.6,
     "end": 431.4,
@@ -432,7 +424,7 @@
     "size": 32
   },
   {
-    "asset": "Inventory and POS. Multi-branch inventory, PostgreSQL persistence, and concurrent sales integration tests. Node.js, TypeScript, Express and Prisma. Explore repository.",
+    "asset": "Inventory and POS. Multi-branch inventory and sales, with Node.js APIs backed by PostgreSQL. Explore repository.",
     "text": "PostgreSQL",
     "x": 274.9,
     "end": 451.1,
@@ -440,7 +432,7 @@
     "size": 32
   },
   {
-    "asset": "Inventory and POS. Multi-branch inventory, PostgreSQL persistence, and concurrent sales integration tests. Node.js, TypeScript, Express and Prisma. Explore repository.",
+    "asset": "Inventory and POS. Multi-branch inventory and sales, with Node.js APIs backed by PostgreSQL. Explore repository.",
     "text": "Explore repository",
     "x": 36,
     "end": 316.3,
@@ -592,38 +584,6 @@
     "size": 32
   },
   {
-    "asset": "Read the Vitest integration test for concurrent sales.",
-    "text": "Concurrent sales",
-    "x": 126,
-    "end": 365.2,
-    "y": 67,
-    "size": 29
-  },
-  {
-    "asset": "Read the Vitest integration test for concurrent sales.",
-    "text": "Read the integration test",
-    "x": 818.2,
-    "end": 1108.0,
-    "y": 67,
-    "size": 25
-  },
-  {
-    "asset": "Read the Vitest integration test for concurrent sales.",
-    "text": "Concurrent sales",
-    "x": 110,
-    "end": 373.9,
-    "y": 75,
-    "size": 32
-  },
-  {
-    "asset": "Read the Vitest integration test for concurrent sales.",
-    "text": "Read the integration test",
-    "x": 110,
-    "end": 481.0,
-    "y": 122,
-    "size": 32
-  },
-  {
     "asset": "Selected work. Backend projects.",
     "text": "Selected work",
     "x": 56,
@@ -640,7 +600,7 @@
     "size": 37
   },
   {
-    "asset": "LinkedIn. Connect with Ariel. https://www.linkedin.com/in/ariel-morillo-dev",
+    "asset": "LinkedIn. Connect with me. https://www.linkedin.com/in/ariel-morillo-dev",
     "text": "LinkedIn",
     "x": 128,
     "end": 264.5,
@@ -648,15 +608,15 @@
     "size": 34
   },
   {
-    "asset": "LinkedIn. Connect with Ariel. https://www.linkedin.com/in/ariel-morillo-dev",
-    "text": "Connect with Ariel",
-    "x": 875.2,
+    "asset": "LinkedIn. Connect with me. https://www.linkedin.com/in/ariel-morillo-dev",
+    "text": "Connect with me",
+    "x": 891.7,
     "end": 1104.0,
     "y": 75,
     "size": 27
   },
   {
-    "asset": "LinkedIn. Connect with Ariel. https://www.linkedin.com/in/ariel-morillo-dev",
+    "asset": "LinkedIn. Connect with me. https://www.linkedin.com/in/ariel-morillo-dev",
     "text": "LinkedIn",
     "x": 113,
     "end": 249.5,
@@ -686,5 +646,381 @@
     "end": 254.6,
     "y": 85,
     "size": 34
+  },
+  {
+    "asset": "GitHub public activity: 15 repositories, 155 contributions, 56 active days. Updated 2026-11-17.",
+    "text": "GitHub activity",
+    "x": 56,
+    "end": 355.9,
+    "y": 72,
+    "size": 42
+  },
+  {
+    "asset": "GitHub public activity: 15 repositories, 155 contributions, 56 active days. Updated 2026-11-17.",
+    "text": "155",
+    "x": 56,
+    "end": 192.7,
+    "y": 183,
+    "size": 86
+  },
+  {
+    "asset": "GitHub public activity: 15 repositories, 155 contributions, 56 active days. Updated 2026-11-17.",
+    "text": "Public contributions",
+    "x": 56,
+    "end": 315.7,
+    "y": 237,
+    "size": 28
+  },
+  {
+    "asset": "GitHub public activity: 15 repositories, 155 contributions, 56 active days. Updated 2026-11-17.",
+    "text": "15",
+    "x": 504,
+    "end": 590.5,
+    "y": 183,
+    "size": 86
+  },
+  {
+    "asset": "GitHub public activity: 15 repositories, 155 contributions, 56 active days. Updated 2026-11-17.",
+    "text": "Repositories",
+    "x": 504,
+    "end": 667.9,
+    "y": 237,
+    "size": 28
+  },
+  {
+    "asset": "GitHub public activity: 15 repositories, 155 contributions, 56 active days. Updated 2026-11-17.",
+    "text": "56",
+    "x": 886,
+    "end": 989.6,
+    "y": 183,
+    "size": 86
+  },
+  {
+    "asset": "GitHub public activity: 15 repositories, 155 contributions, 56 active days. Updated 2026-11-17.",
+    "text": "Active days",
+    "x": 886,
+    "end": 1034.8,
+    "y": 237,
+    "size": 28
+  },
+  {
+    "asset": "GitHub public activity: 15 repositories, 155 contributions, 56 active days. Updated 2026-11-17.",
+    "text": "Contribution rhythm",
+    "x": 56,
+    "end": 335.2,
+    "y": 321,
+    "size": 29
+  },
+  {
+    "asset": "GitHub public activity: 15 repositories, 155 contributions, 56 active days. Updated 2026-11-17.",
+    "text": "Nov 2025",
+    "x": 56,
+    "end": 168.1,
+    "y": 582,
+    "size": 26
+  },
+  {
+    "asset": "GitHub public activity: 15 repositories, 155 contributions, 56 active days. Updated 2026-11-17.",
+    "text": "Nov 2026",
+    "x": 1030.8,
+    "end": 1144.0,
+    "y": 582,
+    "size": 26
+  },
+  {
+    "asset": "GitHub public activity: 15 repositories, 155 contributions, 56 active days. Updated 2026-11-17.",
+    "text": "Explore contribution activity",
+    "x": 56,
+    "end": 422.9,
+    "y": 633,
+    "size": 27
+  },
+  {
+    "asset": "GitHub public activity: 15 repositories, 155 contributions, 56 active days. Updated 2026-11-17.",
+    "text": "Updated 17 Nov 2026",
+    "x": 872.0,
+    "end": 1104.0,
+    "y": 633,
+    "size": 24
+  },
+  {
+    "asset": "Public code by language. Share of code bytes across owned public non-fork repositories, excluding profile graphics.",
+    "text": "Public code by language",
+    "x": 56,
+    "end": 540.4,
+    "y": 72,
+    "size": 42
+  },
+  {
+    "asset": "Public code by language. Share of code bytes across owned public non-fork repositories, excluding profile graphics.",
+    "text": "59.1%",
+    "x": 56,
+    "end": 157.3,
+    "y": 229,
+    "size": 36
+  },
+  {
+    "asset": "Public code by language. Share of code bytes across owned public non-fork repositories, excluding profile graphics.",
+    "text": "TypeScript",
+    "x": 56,
+    "end": 195.1,
+    "y": 280,
+    "size": 27
+  },
+  {
+    "asset": "Public code by language. Share of code bytes across owned public non-fork repositories, excluding profile graphics.",
+    "text": "13.2%",
+    "x": 275,
+    "end": 374.6,
+    "y": 229,
+    "size": 36
+  },
+  {
+    "asset": "Public code by language. Share of code bytes across owned public non-fork repositories, excluding profile graphics.",
+    "text": "JavaScript",
+    "x": 275,
+    "end": 408.6,
+    "y": 280,
+    "size": 27
+  },
+  {
+    "asset": "Public code by language. Share of code bytes across owned public non-fork repositories, excluding profile graphics.",
+    "text": "10.5%",
+    "x": 494,
+    "end": 596.0,
+    "y": 229,
+    "size": 36
+  },
+  {
+    "asset": "Public code by language. Share of code bytes across owned public non-fork repositories, excluding profile graphics.",
+    "text": "HTML",
+    "x": 494,
+    "end": 565.8,
+    "y": 280,
+    "size": 27
+  },
+  {
+    "asset": "Public code by language. Share of code bytes across owned public non-fork repositories, excluding profile graphics.",
+    "text": "4.4%",
+    "x": 713,
+    "end": 799.1,
+    "y": 229,
+    "size": 36
+  },
+  {
+    "asset": "Public code by language. Share of code bytes across owned public non-fork repositories, excluding profile graphics.",
+    "text": "Python",
+    "x": 713,
+    "end": 804.1,
+    "y": 280,
+    "size": 27
+  },
+  {
+    "asset": "Public code by language. Share of code bytes across owned public non-fork repositories, excluding profile graphics.",
+    "text": "12.9%",
+    "x": 932,
+    "end": 1033.4,
+    "y": 229,
+    "size": 36
+  },
+  {
+    "asset": "Public code by language. Share of code bytes across owned public non-fork repositories, excluding profile graphics.",
+    "text": "Other",
+    "x": 932,
+    "end": 1005.2,
+    "y": 280,
+    "size": 27
+  },
+  {
+    "asset": "Public code by language. Share of code bytes across owned public non-fork repositories, excluding profile graphics.",
+    "text": "Code bytes across owned public non-fork repositories. Profile artwork excluded.",
+    "x": 56,
+    "end": 939.2,
+    "y": 336,
+    "size": 24
+  },
+  {
+    "asset": "GitHub public activity: 15 repositories, 155 contributions, 56 active days. Updated 2026-11-17.",
+    "text": "GitHub activity",
+    "x": 36,
+    "end": 300.2,
+    "y": 72,
+    "size": 37
+  },
+  {
+    "asset": "GitHub public activity: 15 repositories, 155 contributions, 56 active days. Updated 2026-11-17.",
+    "text": "155",
+    "x": 36,
+    "end": 185.4,
+    "y": 190,
+    "size": 94
+  },
+  {
+    "asset": "GitHub public activity: 15 repositories, 155 contributions, 56 active days. Updated 2026-11-17.",
+    "text": "Public contributions",
+    "x": 36,
+    "end": 332.8,
+    "y": 245,
+    "size": 32
+  },
+  {
+    "asset": "GitHub public activity: 15 repositories, 155 contributions, 56 active days. Updated 2026-11-17.",
+    "text": "15",
+    "x": 431.8,
+    "end": 504.2,
+    "y": 190,
+    "size": 72
+  },
+  {
+    "asset": "GitHub public activity: 15 repositories, 155 contributions, 56 active days. Updated 2026-11-17.",
+    "text": "Repositories",
+    "x": 374.4,
+    "end": 561.6,
+    "y": 245,
+    "size": 32
+  },
+  {
+    "asset": "GitHub public activity: 15 repositories, 155 contributions, 56 active days. Updated 2026-11-17.",
+    "text": "56 active days",
+    "x": 36,
+    "end": 264.8,
+    "y": 317,
+    "size": 34
+  },
+  {
+    "asset": "GitHub public activity: 15 repositories, 155 contributions, 56 active days. Updated 2026-11-17.",
+    "text": "Past year",
+    "x": 466.0,
+    "end": 604.0,
+    "y": 317,
+    "size": 32
+  },
+  {
+    "asset": "GitHub public activity: 15 repositories, 155 contributions, 56 active days. Updated 2026-11-17.",
+    "text": "Weekly activity",
+    "x": 36,
+    "end": 278.5,
+    "y": 414,
+    "size": 34
+  },
+  {
+    "asset": "GitHub public activity: 15 repositories, 155 contributions, 56 active days. Updated 2026-11-17.",
+    "text": "26-week trend",
+    "x": 36,
+    "end": 252.8,
+    "y": 710,
+    "size": 32
+  },
+  {
+    "asset": "GitHub public activity: 15 repositories, 155 contributions, 56 active days. Updated 2026-11-17.",
+    "text": "View contributions",
+    "x": 36,
+    "end": 324.5,
+    "y": 786,
+    "size": 32
+  },
+  {
+    "asset": "GitHub public activity: 15 repositories, 155 contributions, 56 active days. Updated 2026-11-17.",
+    "text": "Updated 17 Nov 2026",
+    "x": 36,
+    "end": 345.3,
+    "y": 831,
+    "size": 32
+  },
+  {
+    "asset": "Public code by language. Share of code bytes across owned public non-fork repositories, excluding profile graphics.",
+    "text": "Public code by language",
+    "x": 36,
+    "end": 462.7,
+    "y": 72,
+    "size": 37
+  },
+  {
+    "asset": "Public code by language. Share of code bytes across owned public non-fork repositories, excluding profile graphics.",
+    "text": "TypeScript",
+    "x": 66,
+    "end": 230.9,
+    "y": 207,
+    "size": 32
+  },
+  {
+    "asset": "Public code by language. Share of code bytes across owned public non-fork repositories, excluding profile graphics.",
+    "text": "59.1%",
+    "x": 514.0,
+    "end": 604.0,
+    "y": 207,
+    "size": 32
+  },
+  {
+    "asset": "Public code by language. Share of code bytes across owned public non-fork repositories, excluding profile graphics.",
+    "text": "JavaScript",
+    "x": 66,
+    "end": 224.4,
+    "y": 272,
+    "size": 32
+  },
+  {
+    "asset": "Public code by language. Share of code bytes across owned public non-fork repositories, excluding profile graphics.",
+    "text": "13.2%",
+    "x": 515.4,
+    "end": 604.0,
+    "y": 272,
+    "size": 32
+  },
+  {
+    "asset": "Public code by language. Share of code bytes across owned public non-fork repositories, excluding profile graphics.",
+    "text": "HTML",
+    "x": 66,
+    "end": 151.1,
+    "y": 337,
+    "size": 32
+  },
+  {
+    "asset": "Public code by language. Share of code bytes across owned public non-fork repositories, excluding profile graphics.",
+    "text": "10.5%",
+    "x": 513.3,
+    "end": 604.0,
+    "y": 337,
+    "size": 32
+  },
+  {
+    "asset": "Public code by language. Share of code bytes across owned public non-fork repositories, excluding profile graphics.",
+    "text": "Python",
+    "x": 66,
+    "end": 174.0,
+    "y": 402,
+    "size": 32
+  },
+  {
+    "asset": "Public code by language. Share of code bytes across owned public non-fork repositories, excluding profile graphics.",
+    "text": "4.4%",
+    "x": 527.5,
+    "end": 604.0,
+    "y": 402,
+    "size": 32
+  },
+  {
+    "asset": "Public code by language. Share of code bytes across owned public non-fork repositories, excluding profile graphics.",
+    "text": "Other",
+    "x": 66,
+    "end": 152.8,
+    "y": 467,
+    "size": 32
+  },
+  {
+    "asset": "Public code by language. Share of code bytes across owned public non-fork repositories, excluding profile graphics.",
+    "text": "12.9%",
+    "x": 513.8,
+    "end": 604.0,
+    "y": 467,
+    "size": 32
+  },
+  {
+    "asset": "Public code by language. Share of code bytes across owned public non-fork repositories, excluding profile graphics.",
+    "text": "By code bytes, not proficiency.",
+    "x": 36,
+    "end": 489.6,
+    "y": 571,
+    "size": 32
   }
 ]
