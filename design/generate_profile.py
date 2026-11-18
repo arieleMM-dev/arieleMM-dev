@@ -25,6 +25,9 @@ class Canvas:
         self.parts=[f'<rect width="{w}" height="{h}" rx="20" fill="{BG}"/>']
     def add(self,s): self.parts.append(s)
     def text(self,txt,x,y,size=28,color=FG,weight=400,anchor="start",spacing=0):
+        # GitHub adds horizontal padding on phones; keep copy readable at ~280 px.
+        if self.w == 640:
+            size=max(size,32)
         gs,cm,up=fonts[weight]; scale=size/up
         widths=[gs[cm[ord(c)]].width*scale for c in txt]
         total=sum(widths)+spacing*max(0,len(txt)-1)

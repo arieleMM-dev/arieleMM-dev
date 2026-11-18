@@ -99,57 +99,57 @@
     "asset": "Ariel Morillo. Software developer focused on backend.",
     "text": "Building APIs and data-driven",
     "x": 36,
-    "end": 411.8,
+    "end": 465.5,
     "y": 322,
-    "size": 28
+    "size": 32
   },
   {
     "asset": "Ariel Morillo. Software developer focused on backend.",
     "text": "applications with Node.js",
     "x": 36,
-    "end": 359.1,
+    "end": 405.2,
     "y": 362,
-    "size": 28
+    "size": 32
   },
   {
     "asset": "Ariel Morillo. Software developer focused on backend.",
     "text": "and TypeScript.",
     "x": 36,
-    "end": 239.1,
+    "end": 268.1,
     "y": 402,
-    "size": 28
+    "size": 32
   },
   {
     "asset": "Ariel Morillo. Software developer focused on backend.",
     "text": "HTTP",
-    "x": 289.9,
-    "end": 350.1,
+    "x": 279.8,
+    "end": 360.2,
     "y": 516,
-    "size": 24
+    "size": 32
   },
   {
     "asset": "Ariel Morillo. Software developer focused on backend.",
     "text": "Node.js",
-    "x": 277.4,
-    "end": 362.6,
+    "x": 263.2,
+    "end": 376.8,
     "y": 596,
-    "size": 24
+    "size": 32
   },
   {
     "asset": "Ariel Morillo. Software developer focused on backend.",
     "text": "SQL",
-    "x": 297.4,
-    "end": 342.6,
+    "x": 289.9,
+    "end": 350.1,
     "y": 676,
-    "size": 24
+    "size": 32
   },
   {
     "asset": "Ariel Morillo. Software developer focused on backend.",
     "text": "Software Engineering student",
     "x": 36,
-    "end": 382.4,
+    "end": 479.3,
     "y": 776,
-    "size": 25
+    "size": 32
   },
   {
     "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, Docker, Vitest and CI/CD. Data: PostgreSQL and SQLite.",
@@ -234,66 +234,66 @@
   {
     "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, Docker, Vitest and CI/CD. Data: PostgreSQL and SQLite.",
     "text": "Node.js",
-    "x": 98.5,
-    "end": 201.5,
+    "x": 93.2,
+    "end": 206.8,
     "y": 242,
-    "size": 29
+    "size": 32
   },
   {
     "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, Docker, Vitest and CI/CD. Data: PostgreSQL and SQLite.",
     "text": "TypeScript",
-    "x": 395.3,
-    "end": 544.7,
+    "x": 387.5,
+    "end": 552.5,
     "y": 242,
-    "size": 29
+    "size": 32
   },
   {
     "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, Docker, Vitest and CI/CD. Data: PostgreSQL and SQLite.",
     "text": "Express",
-    "x": 95.8,
-    "end": 204.2,
+    "x": 90.2,
+    "end": 209.8,
     "y": 407,
-    "size": 29
+    "size": 32
   },
   {
     "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, Docker, Vitest and CI/CD. Data: PostgreSQL and SQLite.",
     "text": "Prisma",
-    "x": 423.7,
-    "end": 516.3,
+    "x": 418.9,
+    "end": 521.1,
     "y": 407,
-    "size": 29
+    "size": 32
   },
   {
     "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, Docker, Vitest and CI/CD. Data: PostgreSQL and SQLite.",
     "text": "Docker",
-    "x": 101.9,
-    "end": 198.1,
+    "x": 96.9,
+    "end": 203.1,
     "y": 572,
-    "size": 29
+    "size": 32
   },
   {
     "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, Docker, Vitest and CI/CD. Data: PostgreSQL and SQLite.",
     "text": "Vitest",
-    "x": 429.3,
-    "end": 510.7,
+    "x": 425.1,
+    "end": 514.9,
     "y": 572,
-    "size": 29
+    "size": 32
   },
   {
     "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, Docker, Vitest and CI/CD. Data: PostgreSQL and SQLite.",
     "text": "CI/CD",
     "x": 115,
-    "end": 198.4,
+    "end": 203.9,
     "y": 710,
-    "size": 30
+    "size": 32
   },
   {
     "asset": "Backend stack: Node.js, TypeScript, Express, Prisma, Docker, Vitest and CI/CD. Data: PostgreSQL and SQLite.",
     "text": "PostgreSQL / SQLite",
-    "x": 360.5,
+    "x": 304.3,
     "end": 604.0,
     "y": 710,
-    "size": 26
+    "size": 32
   },
   {
     "asset": "Inventory and POS. Multi-branch inventory, PostgreSQL persistence, and concurrent sales integration tests. Node.js, TypeScript, Express and Prisma. Explore repository.",
@@ -379,73 +379,73 @@
     "asset": "Inventory and POS. Multi-branch inventory, PostgreSQL persistence, and concurrent sales integration tests. Node.js, TypeScript, Express and Prisma. Explore repository.",
     "text": "Multi-branch inventory and sales.",
     "x": 36,
-    "end": 451.4,
+    "end": 528.3,
     "y": 149,
-    "size": 27
+    "size": 32
   },
   {
     "asset": "Inventory and POS. Multi-branch inventory, PostgreSQL persistence, and concurrent sales integration tests. Node.js, TypeScript, Express and Prisma. Explore repository.",
     "text": "PostgreSQL persistence and",
     "x": 36,
-    "end": 392.1,
+    "end": 458.0,
     "y": 189,
-    "size": 27
+    "size": 32
   },
   {
     "asset": "Inventory and POS. Multi-branch inventory, PostgreSQL persistence, and concurrent sales integration tests. Node.js, TypeScript, Express and Prisma. Explore repository.",
     "text": "integration tests for concurrent sales.",
     "x": 36,
-    "end": 509.7,
+    "end": 597.5,
     "y": 229,
-    "size": 27
+    "size": 32
   },
   {
     "asset": "Inventory and POS. Multi-branch inventory, PostgreSQL persistence, and concurrent sales integration tests. Node.js, TypeScript, Express and Prisma. Explore repository.",
     "text": "Node.js / TypeScript / Express",
     "x": 36,
-    "end": 401.2,
+    "end": 485.4,
     "y": 317,
-    "size": 26
+    "size": 32
   },
   {
     "asset": "Inventory and POS. Multi-branch inventory, PostgreSQL persistence, and concurrent sales integration tests. Node.js, TypeScript, Express and Prisma. Explore repository.",
     "text": "Prisma / PostgreSQL / Vitest",
     "x": 36,
-    "end": 379.5,
+    "end": 458.8,
     "y": 355,
-    "size": 26
+    "size": 32
   },
   {
     "asset": "Inventory and POS. Multi-branch inventory, PostgreSQL persistence, and concurrent sales integration tests. Node.js, TypeScript, Express and Prisma. Explore repository.",
     "text": "Branches",
-    "x": 70.4,
-    "end": 181.6,
+    "x": 54.9,
+    "end": 197.1,
     "y": 480,
-    "size": 25
+    "size": 32
   },
   {
     "asset": "Inventory and POS. Multi-branch inventory, PostgreSQL persistence, and concurrent sales integration tests. Node.js, TypeScript, Express and Prisma. Explore repository.",
     "text": "Sales API",
-    "x": 309.6,
-    "end": 416.4,
+    "x": 294.6,
+    "end": 431.4,
     "y": 480,
-    "size": 25
+    "size": 32
   },
   {
     "asset": "Inventory and POS. Multi-branch inventory, PostgreSQL persistence, and concurrent sales integration tests. Node.js, TypeScript, Express and Prisma. Explore repository.",
     "text": "PostgreSQL",
-    "x": 291.4,
-    "end": 434.6,
+    "x": 274.9,
+    "end": 451.1,
     "y": 729,
-    "size": 26
+    "size": 32
   },
   {
     "asset": "Inventory and POS. Multi-branch inventory, PostgreSQL persistence, and concurrent sales integration tests. Node.js, TypeScript, Express and Prisma. Explore repository.",
     "text": "Explore repository",
     "x": 36,
-    "end": 272.5,
+    "end": 316.3,
     "y": 771,
-    "size": 27
+    "size": 32
   },
   {
     "asset": "Finca Jirah. Agricultural traceability and offline field capture. TypeScript, Next.js, Prisma and SQLite/libSQL. Explore repository.",
@@ -531,41 +531,41 @@
     "asset": "Finca Jirah. Agricultural traceability and offline field capture. TypeScript, Next.js, Prisma and SQLite/libSQL. Explore repository.",
     "text": "Agricultural traceability with",
     "x": 36,
-    "end": 399.2,
+    "end": 451.1,
     "y": 151,
-    "size": 28
+    "size": 32
   },
   {
     "asset": "Finca Jirah. Agricultural traceability and offline field capture. TypeScript, Next.js, Prisma and SQLite/libSQL. Explore repository.",
     "text": "offline field capture.",
     "x": 36,
-    "end": 294.7,
+    "end": 331.6,
     "y": 193,
-    "size": 28
+    "size": 32
   },
   {
     "asset": "Finca Jirah. Agricultural traceability and offline field capture. TypeScript, Next.js, Prisma and SQLite/libSQL. Explore repository.",
     "text": "TypeScript / Next.js",
     "x": 36,
-    "end": 276.6,
+    "end": 332.1,
     "y": 266,
-    "size": 26
+    "size": 32
   },
   {
     "asset": "Finca Jirah. Agricultural traceability and offline field capture. TypeScript, Next.js, Prisma and SQLite/libSQL. Explore repository.",
     "text": "Prisma / SQLite / libSQL",
     "x": 36,
-    "end": 319.7,
+    "end": 385.1,
     "y": 304,
-    "size": 26
+    "size": 32
   },
   {
     "asset": "Finca Jirah. Agricultural traceability and offline field capture. TypeScript, Next.js, Prisma and SQLite/libSQL. Explore repository.",
     "text": "Field data",
     "x": 66,
-    "end": 188.5,
+    "end": 211.2,
     "y": 429,
-    "size": 27
+    "size": 32
   },
   {
     "asset": "Finca Jirah. Agricultural traceability and offline field capture. TypeScript, Next.js, Prisma and SQLite/libSQL. Explore repository.",
@@ -587,9 +587,9 @@
     "asset": "Finca Jirah. Agricultural traceability and offline field capture. TypeScript, Next.js, Prisma and SQLite/libSQL. Explore repository.",
     "text": "Explore repository",
     "x": 36,
-    "end": 272.5,
+    "end": 316.3,
     "y": 640,
-    "size": 27
+    "size": 32
   },
   {
     "asset": "Read the Vitest integration test for concurrent sales.",
@@ -611,17 +611,17 @@
     "asset": "Read the Vitest integration test for concurrent sales.",
     "text": "Concurrent sales",
     "x": 110,
-    "end": 349.2,
+    "end": 373.9,
     "y": 75,
-    "size": 29
+    "size": 32
   },
   {
     "asset": "Read the Vitest integration test for concurrent sales.",
     "text": "Read the integration test",
     "x": 110,
-    "end": 399.8,
+    "end": 481.0,
     "y": 122,
-    "size": 25
+    "size": 32
   },
   {
     "asset": "Selected work. Backend projects.",
