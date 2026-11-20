@@ -1,34 +1,30 @@
 {
   "username": "arieleMM-dev",
-  "updated_on": "2026-11-19",
-  "period_start": "2025-11-19",
-  "period_end": "2026-11-19",
+  "updated_on": "2026-11-20",
+  "period_start": "2025-11-20",
+  "period_end": "2026-11-20",
   "calendar_timezone": "UTC",
   "public_repositories": 17,
-  "contributions": 151,
+  "contributions": 153,
   "active_days": 57,
   "languages": {
-    "TypeScript": 1872546,
-    "JavaScript": 418621,
+    "TypeScript": 1879656,
+    "JavaScript": 446507,
     "HTML": 331682,
     "Python": 138234,
-    "SCSS": 115697,
-    "CSS": 109938,
-    "Astro": 68294,
+    "SCSS": 114011,
+    "CSS": 109931,
+    "Astro": 66271,
     "Jupyter Notebook": 47081,
     "TeX": 44856,
     "Dart": 20737,
     "Dockerfile": 2146,
     "GDScript": 2030,
+    "PowerShell": 718,
     "Kotlin": 253
   },
   "language_scope": "Bytes in owned public non-fork repositories, excluding this profile repository.",
   "calendar": [
-    {
-      "date": "2025-11-19",
-      "level": 0,
-      "count": 0
-    },
     {
       "date": "2025-11-20",
       "level": 0,
@@ -1851,8 +1847,13 @@
     },
     {
       "date": "2026-11-19",
-      "level": 1,
-      "count": 1
+      "level": 2,
+      "count": 3
+    },
+    {
+      "date": "2026-11-20",
+      "level": 0,
+      "count": 0
     }
   ],
   "projects": [
